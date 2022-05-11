@@ -1,3 +1,9 @@
 1 2 3 4
 =======
 >>>>>>> 64dd96bcee0dd4fd34e44e755596c82ce8f96c5d
+
+apple
+banana
+orange
+onion
+lemon
