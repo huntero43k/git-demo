@@ -5,3 +5,10 @@
 code 1
 code 2
 code 3
+
+mama
+tato
+yulia
+petya
+nastya
+krava
